@@ -1,4 +1,4 @@
 # Hospital-Data-Analysis
 A data analysis project that examines performance indicators in a hospital, focusing on tracking mortality, survival, and critical case rates over several months, using a real dataset from the Kaggle platform.
 
-![Image Alt]([image_url](https://github.com/ibtisam-alalmai/Hospital-Data-Analysis/blob/e8c8d28ebd25335a7b99ed9f4dc2046ec1f2d177/Hospital%20record%20analysis.png)).
+<img width="672" height="296" alt="Image" src="https://github.com/user-attachments/assets/6fd56b90-da9c-435e-9b97-f32d99bc96e9" />
